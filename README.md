@@ -207,7 +207,15 @@ public static double operator +(Logarithm a, Logarithm b)
         } 
     }
 ```
+## Примеры экранных форм или диалогов, используемые для взаимодействия с пользователем
 
+![Скриншот Form1](images/form1_before.png)
+![Скриншот Form2](images/form2_before.png)
+
+## Примеры результатов работы программы (скриншоты)
+
+![Скриншот Form1](images/form1_after.png)
+![Скриншот Form2](images/form2_after.png)
 
 ## Программная документация 
 
